@@ -1,4 +1,4 @@
-> [va2/va2tables.js](https://github.com/reineimi/va2/blob/main/lib/va2tables.js)
+> [va2/lib/va2tables.js](https://github.com/reineimi/va2/blob/main/lib/va2tables.js)
 # Va2: Tables
 This module allows you to create and edit HTML tables right on your webpage.<br>
 You can also use it right now:<br>
